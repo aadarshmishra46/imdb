@@ -1,3 +1,45 @@
+# Description
+  A web page that helps users discover movies and TV shows easily. Implement
+  the following features:
+  1. List
+  a. 20 most popular movies/TV shows.
+  b. 20 most trending movies/TV shows.
+  c. 20 newest movies/TV shows.
+  d. 20 highest rated movies/TV shows.
+  2. Allow filtering by
+  a. Type of media - movies/TV shows.
+  b. Genre.
+  c. Year (from and to).
+  d. Rating.
+  3. Allow searching by movie/TV show title.
+# API 
+https://developers.themoviedb.org/3/getting-started/introduction
+Use the following key for making API calls:
+3a94078fb34b772a31d9a1348035bed7
+Here’s a sample request/response to start with:
+Request:
+https://api.themoviedb.org/3/discover/movie?api_key=3a94078fb34b772a31d9a1348035bed7&language=en-US&sort
+_by=popularity.desc&include_adult=false&include_video=false&page=1
+
+
+# Deploy Link
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
